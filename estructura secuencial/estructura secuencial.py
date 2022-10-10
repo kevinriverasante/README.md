@@ -1,4 +1,4 @@
-ESTRUCTURAS SECUENCIALES
+ESTRUCTURA SECUENCIAL
 
 1:DECLARACION O DEFINICION DE VARIABLES: se enlistan al principio del algoritnmo todas las varibles que se uzaran, 
 colocando el nombre y el tipo.

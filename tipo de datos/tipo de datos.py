@@ -9,7 +9,7 @@
  solo se escribe el numero sin ningun comilla.
  texto=20//dato de tipo numerio
 
-///DATO BOOLEANO
+///DATO BOOLEANOS
  es un dato logico que dsoo puede teer los valores true y false(verdadero o falso)
  nombre=true//dato de tipo booleano
  booleano=false//dato de tipo booleano

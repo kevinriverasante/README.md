@@ -1,4 +1,4 @@
-ESTRUCTURAS DE DECISION
+ESTRUCTURA DE DECISION
 
 if: por ejemplo que la nota para aprobar es 60. la sentencia en pseudocodigo es la siguiente:
     

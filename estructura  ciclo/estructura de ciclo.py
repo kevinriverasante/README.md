@@ -1,4 +1,4 @@
-ESTRUCTURA DE CICLOS
+ESTRUCTURA DE CICLO
  permite ejecutar funciones varias veces, estos son utilizados 
  para determinar de una forma denamica en lugar de agregar la funcion n numeros de veces
  for 
